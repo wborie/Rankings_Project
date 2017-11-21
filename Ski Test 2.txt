@@ -1,0 +1,9 @@
+1, Date , Time , DayOfWeek , gloves , 2 , Blank ,  goggles , 1
+1, Date , Time , DayOfWeek , skis , 2 , Blank ,  pants , 1
+1, Date , Time , DayOfWeek , gloves , 2 , Blank ,  pants , 1
+1, Date , Time , DayOfWeek , boots , 2 , Blank ,  pants , 1
+1, Date , Time , DayOfWeek , goggles , 2 , Blank ,  helmet , 1
+1, Date , Time , DayOfWeek , jacket , 2 , Blank ,  scarf , 1
+1, Date , Time , DayOfWeek , skis , 2 , Blank ,  socks , 1
+1, Date , Time , DayOfWeek , jacket , 2 , Blank ,  shirt , 1
+1, Date , Time , DayOfWeek , scarf , 2 , Blank ,  shirt , 1
